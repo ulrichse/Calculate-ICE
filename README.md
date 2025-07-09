@@ -10,7 +10,13 @@ The **Index of Concentration at the Extremes (ICE)** is a spatial metric used to
 - **+1** indicates complete concentration of an advantaged group (e.g., high-income or non-Hispanic white populations),
 - **0** indicates an equal distribution or no concentration of either group.
 
-ICE has been used as a measure of **spatial social inequality** in both socioeconomic (Massey 1996, 2001) and racial contexts (Krieger et al., 2015; Krieger et al., 2016). It is commonly applied in studies examining the effects of structural racism and racialized economic inequality on health outcomes (e.g., Chambers et al., 2019; Mitchell et al., 2022; Dyer et al., 2022; Wallace et al., 2019).
+ICE has been used as a measure of **spatial social inequality** in both socioeconomic (Massey 1996, 2001) and racial contexts ([Krieger et al., 2015](https://pubmed.ncbi.nlm.nih.gov/26093080/); [Krieger et al., 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4815605/)). It is commonly applied in studies examining the effects of structural racism and racialized economic inequality on health outcomes (e.g., [Chambers et al., 2019](https://pubmed.ncbi.nlm.nih.gov/29869317/); [Mitchell et al., 2022](https://geo.appstate.edu/sites/default/files/mitchelletal_2022.pdf); [Dyer et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8684557/); [Sonderlund et al., 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8797220/)).
+
+### Additional publications using ICE metrics: 
+- [Ulrich et al. 2025](https://www.thelancet.com/journals/lanam/article/PIIS2667-193X(25)00008-0/fulltext), [2023](https://www.sciencedirect.com/science/article/pii/S2666560323000853)
+- [Ryan et al. 2024](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GH000959)
+- [Runkle et al. 2022](https://www.medrxiv.org/content/10.1101/2022.06.11.22276277v1.full)
+- [Sugg et al. 2023](https://www.jahonline.org/article/S1054-139X(22)00508-0/fulltext)
 
 ### Methodology
 
